@@ -4,3 +4,7 @@
 
 
 Ce projet a été créé pour comprendre l’utilisation de GIT
+
+
+- history.md
+- steps.md
